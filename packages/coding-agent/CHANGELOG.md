@@ -4,7 +4,7 @@
 
 ### Added
 
-- Added declarative authorization-code OAuth for custom providers in the user `models.yml`, including PKCE browser login through `/login` and `omp login`, localhost callbacks, validated standard token responses, token refresh, and environment- or command-resolved client credentials
+- Added declarative authorization-code OAuth for custom providers in the user `models.yml`, including PKCE browser login through `/login` and `omp login`, localhost callbacks, validated standard token responses, token refresh, and environment- or command-resolved client credentials ([#7336](https://github.com/can1357/oh-my-pi/pull/7336) by [@Adrastopoulos](https://github.com/Adrastopoulos))
 
 ### Fixed
 

@@ -4,7 +4,7 @@
 
 ### Added
 
-- Added `createConfiguredOAuthProvider`, a reusable authorization-code OAuth provider backed by `oauth4webapi` with PKCE, localhost callbacks, standard token validation, `client_secret_post`/`client_secret_basic` client authentication, and refresh support
+- Added `createConfiguredOAuthProvider`, a reusable authorization-code OAuth provider backed by `oauth4webapi` with PKCE, localhost callbacks, standard token validation, `client_secret_post`/`client_secret_basic` client authentication, and refresh support ([#7336](https://github.com/can1357/oh-my-pi/pull/7336) by [@Adrastopoulos](https://github.com/Adrastopoulos))
 
 ### Fixed
 
